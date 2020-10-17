@@ -1,1 +1,8 @@
 centos8 に gcloud の開発環境を作ってみる
+
+[googleのドキュメント](https://cloud.google.com/sdk/docs/quickstart-redhat-centos?hl=ja) をもとにやってみました。
+
+とりあえず `gcloud init` 実行後のコンテナからイメージを再作成して使いまわしています。
+
+本当は [この方法](https://cloud.google.com/sdk/docs/downloads-docker?hl=ja) で認証のところとか、ボリュームを作ってマウントして... みたいなのをしないとダメなのかな？
+
