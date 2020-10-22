@@ -5,7 +5,7 @@ MAINTAINER Kihi
 COPY google-cloud-sdk.repo /etc/yum.repos.d/
 
 RUN dnf -y update && \
-    dnf -y git && \
+    dnf -y install git && \
     dnf -y install google-cloud-sdk && \
     dnf clean all
 
