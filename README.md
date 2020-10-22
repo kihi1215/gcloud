@@ -6,3 +6,5 @@ centos8 に gcloud の開発環境を作ってみる
 
 本当は [この方法](https://cloud.google.com/sdk/docs/downloads-docker?hl=ja) で認証のところとか、ボリュームを作ってマウントして... みたいなのをしないとダメなのかな？
 
+コンポーネントの追加は [ここ](https://cloud.google.com/sdk/docs/components?hl=ja#external_package_managers) を参照すればいいかな。
+
