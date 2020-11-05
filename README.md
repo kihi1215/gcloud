@@ -8,3 +8,6 @@
 
 コンポーネントの追加は [ここ](https://cloud.google.com/sdk/docs/components?hl=ja#external_package_managers) を参照すればいいかな。
 
+
+### 関連
+[コンポーザ](https://github.com/kihi1215/gcloud-compose) でやってみている方が良さそうになってきたかも
