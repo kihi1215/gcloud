@@ -1,6 +1,10 @@
 ## centos8 に gcloud の開発環境を作ってみる
 
 [googleのドキュメント](https://cloud.google.com/sdk/docs/quickstart-redhat-centos?hl=ja) をもとにやってみました。
+google-cloud-sdk.repo ファイルもここに記載されているものをコピペしてファイルにしました。
+
+（dnf(yum?) のコマンドで落とし込んでこれないのかなぁ？）
+
 
 とりあえず `gcloud init` 実行後のコンテナからイメージを再作成して使いまわしています。
 
